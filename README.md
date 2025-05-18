@@ -39,7 +39,7 @@ The system is built using:
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/yourusername/healthcare-aptos
 cd healthcare-aptos
 ```
 
